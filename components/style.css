@@ -1,0 +1,49 @@
+/* Apply Rye font to header text */
+.font-rye {
+    font-family: 'Rye', cursive !important;
+    font:large 100% !important;;
+    font-style: bold !important;
+  }
+  /* style.css */
+.font-bodoni {
+    font-family: 'Libre Bodoni', serif;
+  }
+  /* Wrapper to position the icon */
+.search-wrapper {
+    position: absolute;
+    top: 50%;
+    right: 0.5rem;
+    transform: translateY(-50%);
+  }
+  
+  /* Icon styling */
+  .search-wrapper svg {
+    color: #6C757D;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  /* Wrapper for each icon */
+.icon-wrapper {
+    cursor: pointer;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: white;
+    opacity: 1;
+  }
+  
+  /* Icon-specific styling */
+  .icon-wrapper svg {
+    color: inherit; /* Ensures icons inherit the color of the wrapper */
+  }
+  
+    
+    
+  
+
+  
+    
+
+
+    
+  
